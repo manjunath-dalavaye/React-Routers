@@ -12,7 +12,7 @@ const Home: React.FunctionComponent = () => {
     <>
       <div>Home page</div>
       <button onClick={handlePlaceOrder}>Place order</button>
-    {/* If we pass the repace: true it will redirect to the chrome home page */}
+    {/* If we pass the replace:true  it will redirect to the chrome home page */}
     </>
   );
 };
