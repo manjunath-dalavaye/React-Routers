@@ -1,0 +1,19 @@
+nav{
+    background-color: antiquewhite;
+}
+
+nav a{
+    margin-right: 16px;
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover {
+    color: gray;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
